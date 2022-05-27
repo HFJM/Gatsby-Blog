@@ -1,0 +1,24 @@
+html {
+    background-color: #36393f;
+}
+
+#logo {
+    width: 250px;
+    height: auto;
+}
+
+h1, h2, h3, h4, h5, p, a {
+    color: white;
+}
+
+#homeDiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.blog-post {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
